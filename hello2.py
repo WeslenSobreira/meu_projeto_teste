@@ -1,2 +1,2 @@
-mensagem =('Oi')
-print(mensagem)
+
+print('Hello GitHub Copilot!')

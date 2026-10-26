@@ -1,0 +1,1 @@
+mensagem = "Hello, World! Utilizando o GitHub Copilot para gerar código Python."
