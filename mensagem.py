@@ -1,3 +1,2 @@
-mensagem = "Hello, World!" 
+mensagem = "Hello, World! Utilizando o GitHub Copilot para gerar código Python." 
 print(mensagem)
-print("Nova feature adicionada!")
